@@ -3,67 +3,52 @@
 # █▀▀ █▀█ █▀▄ █▀▀ █▀▀ █▀█ ▄▀█ █▀▀ ▀█▀ █▀▀ █▀█ █▀
 # █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2026-08-15 02:39:11 UTC
+# (●) Last Update: 2026-08-15 06:13:27 UTC
 # (●) Service: DaddyHDCricket
-# (●) Total Channels: 12
+# (●) Total Channels: 9
 # (●) Join: https://t.me/realcodecrafters
+
+#EXTINF:-1 tvg-name="Astro Cricket" tvg-logo="" group-title="DaddyHD",Astro Cricket
+#EXTVLCOPT:http-referrer=https://hamis.romponalis.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://xameleon.phantemlis.top/three/secure/2a32b680185b559c4e46a13f988f92e1/1786785209/premium370/index.m3u8
 
 #EXTINF:-1 tvg-name="Sky Sport 4 NZ" tvg-logo="" group-title="DaddyHD",Sky Sport 4 NZ
 #EXTVLCOPT:http-referrer=https://hamis.romponalis.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://xameleon.phantemlis.top/four/secure/d5e0ceb92e4c6f39ffa7eb13406ca27e/1786772309/premium591/index.m3u8
-
-#EXTINF:-1 tvg-name="Sky Sport 5 NZ" tvg-logo="" group-title="DaddyHD",Sky Sport 5 NZ
-#EXTVLCOPT:http-referrer=https://hamis.romponalis.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://xameleon.phantemlis.top/four/secure/ba8749728d77ac530e8f3886c2b56b05/1786772351/premium592/index.m3u8
+https://xameleon.phantemlis.top/four/secure/06d4624d1ee7aeeacae5c9ad85c0e189/1786785208/premium591/index.m3u8
 
 #EXTINF:-1 tvg-name="Sky Sport 6 NZ" tvg-logo="" group-title="DaddyHD",Sky Sport 6 NZ
 #EXTVLCOPT:http-referrer=https://hamis.romponalis.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://xameleon.phantemlis.top/four/secure/841e36003e7bbba262a68576a04587da/1786772307/premium593/index.m3u8
-
-#EXTINF:-1 tvg-name="Sky Sport Select NZ" tvg-logo="" group-title="DaddyHD",Sky Sport Select NZ
-#EXTVLCOPT:http-referrer=https://hamis.romponalis.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://xameleon.phantemlis.top/four/secure/b59c34ff2ddff00ea13cfb89dd28761d/1786772302/premium587/index.m3u8
-
-#EXTINF:-1 tvg-name="Sky Sports Cricket UK" tvg-logo="" group-title="DaddyHD",Sky Sports Cricket UK
-#EXTVLCOPT:http-referrer=https://hamis.romponalis.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://xameleon.phantemlis.top/four/secure/87aeafbfc99ba084cb9c3ba8f2980773/1786772321/premium65/index.m3u8
-
-#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="" group-title="DaddyHD",Sky Sports Main Event
-#EXTVLCOPT:http-referrer=https://hamis.romponalis.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://xameleon.phantemlis.top/three/secure/5ce4b4c3cb53f7a73fac54ebcddb9d00/1786772326/premium38/index.m3u8
+https://xameleon.phantemlis.top/four/secure/362e602ed95566d455588a18fe1483ed/1786785202/premium593/index.m3u8
 
 #EXTINF:-1 tvg-name="SuperSport Cricket" tvg-logo="" group-title="DaddyHD",SuperSport Cricket
 #EXTVLCOPT:http-referrer=https://hamis.romponalis.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://xameleon.phantemlis.top/four/secure/4e65774c20a56ec58008e412cf7c9ad3/1786772309/premium368/index.m3u8
+https://xameleon.phantemlis.top/four/secure/db52f3a62f568fa5229b37b325fc1999/1786785203/premium368/index.m3u8
 
 #EXTINF:-1 tvg-name="SuperSport Grandstand" tvg-logo="" group-title="DaddyHD",SuperSport Grandstand
 #EXTVLCOPT:http-referrer=https://hamis.romponalis.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://xameleon.phantemlis.top/three/secure/1e77bc09e1e2ca173e6df1ebcb20df5e/1786772350/premium412/index.m3u8
+https://xameleon.phantemlis.top/three/secure/79c17308400988c8279f144e34e3efde/1786785205/premium412/index.m3u8
 
-#EXTINF:-1 tvg-name="TNT Sports 2 UK" tvg-logo="" group-title="DaddyHD",TNT Sports 2 UK
+#EXTINF:-1 tvg-name="TNT Sports 3 UK" tvg-logo="" group-title="DaddyHD",TNT Sports 3 UK
 #EXTVLCOPT:http-referrer=https://hamis.romponalis.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://xameleon.phantemlis.top/one/secure/a4a1abaa7a3a261261e44f0d9d44d224/1786772348/premium32/index.m3u8
+https://xameleon.phantemlis.top/one/secure/0c899cb1e234147a122e0a4b96e2757c/1786785204/premium33/index.m3u8
 
 #EXTINF:-1 tvg-name="TNT Sports 4 UK" tvg-logo="" group-title="DaddyHD",TNT Sports 4 UK
 #EXTVLCOPT:http-referrer=https://hamis.romponalis.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://xameleon.phantemlis.top/one/secure/86a758a9dfd748fb6143d2dc376e377a/1786772347/premium34/index.m3u8
+https://xameleon.phantemlis.top/one/secure/465437a45291042c4ff277f15344792d/1786785207/premium34/index.m3u8
 
 #EXTINF:-1 tvg-name="Willow 2 Cricket" tvg-logo="" group-title="DaddyHD",Willow 2 Cricket
 #EXTVLCOPT:http-referrer=https://hamis.romponalis.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://xameleon.phantemlis.top/three/secure/b7409be306eee33e011c0d6371a850fd/1786772350/premium598/index.m3u8
+https://xameleon.phantemlis.top/three/secure/5fda28d1646292087d067d2f3160a3ed/1786785206/premium598/index.m3u8
 
 #EXTINF:-1 tvg-name="Willow Cricket" tvg-logo="" group-title="DaddyHD",Willow Cricket
 #EXTVLCOPT:http-referrer=https://hamis.romponalis.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://xameleon.phantemlis.top/three/secure/55ee7fc0e2e949638cee99c1b72b5564/1786772300/premium346/index.m3u8
+https://xameleon.phantemlis.top/three/secure/82163d6563fd7fa3eba186aef81d2742/1786785201/premium346/index.m3u8
